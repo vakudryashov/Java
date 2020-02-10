@@ -20,7 +20,7 @@ public class Main {
 
         Random rand = new Random();
         int index = rand.nextInt(arr.length());
-        System.out.printf("\n\nУдалим случайный элемент в позиции %d:",index);
+        System.out.printf("\nУдалим случайный элемент в позиции %d:",index);
         arr.del(index);
         System.out.printf("\nНовая длина массива: %d элементов\n",arr.length());
 

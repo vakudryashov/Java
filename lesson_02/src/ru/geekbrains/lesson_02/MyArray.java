@@ -1,5 +1,4 @@
 package ru.geekbrains.lesson_02;
-
 import java.util.Date;
 import java.util.Random;
 
